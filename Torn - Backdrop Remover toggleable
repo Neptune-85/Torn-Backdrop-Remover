@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Torn - Toggle Backdrops Container (Button)
+// @name         Torn - Toggle Backdrops Container (Toggleable)
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Adds a "BG" button to toggle visibility of backdrop on Torn.com via display:none/block CSS styling.
